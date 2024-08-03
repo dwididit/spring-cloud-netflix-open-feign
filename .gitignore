@@ -4,5 +4,3 @@ logs/
 /ProductService/logs/application.log
 /TransactionService/logs/application.log
 /UserService/logs/application.log
-/ProductService/logs/application.log.2024-08-02.0.gz
-/UserService/logs/application.log.2024-08-02.0.gz
